@@ -56,7 +56,7 @@ Para ejecutar el script para analisis de datos lo que hay que realizar es.
 Esto nos va a generar un CSV en la carpeta "PROCESSED" dentro de la carpeta "DATA" llamado "cleaned_products.csv"
 
 ### Brittany Loor
-### loorbrittany20@gmail.com
+loorbrittany20@gmail.com
 
 
 
