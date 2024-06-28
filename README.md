@@ -39,6 +39,7 @@ Python
 |__ dep.txt
 |__ README.md
 |__ requirements.txt
+```plaintext
 
 
 ## Ejecucion de Scraper
