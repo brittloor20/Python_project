@@ -17,7 +17,7 @@ Para instalar las dependencias creamos un archivo "txt" el cual guardamos todas 
 
 ## Estructura de carpetas
 
-`python
+python
 |-- data/
 |    |- raw/
 |    |    |__ products.csv
@@ -39,7 +39,7 @@ Para instalar las dependencias creamos un archivo "txt" el cual guardamos todas 
 |        |__ scraper.py
 |__ dep.txt
 |__ README.md
-|__ requirements.txt`
+|__ requirements.txt
  
 
 ## Ejecucion de Scraper
