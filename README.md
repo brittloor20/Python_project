@@ -17,7 +17,7 @@ Para instalar las dependencias creamos un archivo "txt" el cual guardamos todas 
 
 ## Estructura de carpetas
 
-```plaintext
+```
 Python
 |-- data/
 |   |-- raw/
@@ -38,25 +38,24 @@ Python
 |       |-- scraper.py
 |__ dep.txt
 |__ README.md
-|__ requirements.txt ```
+|__ requirements.txt 
 
-## Ejecucion de Scraper
-
+```
+## Estructura de carpetas
 Para ejecutar el scraper lo que hay que realizar es.
 
 `python .\src\scraping\scraper.py`
 
 Esto nos va a generar un CSV en la carpeta "RAW" dentro de la carpeta "DATA" llamado "products.csv"
 
-## Ejecucion para analisis de datos 
-
+## Ejecucion para analisis de datos
 Para ejecutar el script para analisis de datos lo que hay que realizar es.
 
-`python .\src\analysys\analysis.py`
+`python .\src\analysis\analysis.py`
 
 Esto nos va a generar un CSV en la carpeta "PROCESSED" dentro de la carpeta "DATA" llamado "cleaned_products.csv"
 
-### Brittany Loor 
+### Brittany Loor
 ### loorbrittany20@gmail.com
 
 
