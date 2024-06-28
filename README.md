@@ -3,7 +3,7 @@ Este proyecto realiza scraping de datos de productos de un sitio web, limpia y a
 ## Requisitos
 - Python 3.7
 - pandas
-- Beautifulsoup4
+- beautifulsoup4
 - requests
 - matplotlib
 - time
