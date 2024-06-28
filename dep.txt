@@ -1,0 +1,6 @@
+pandas
+Beautifulsoup4
+requests
+matplotlib
+time 
+logging
