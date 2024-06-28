@@ -17,7 +17,7 @@ Para instalar las dependencias creamos un archivo "txt" el cual guardamos todas 
 
 ## Estructura de carpetas
 
-python
+`Python
 |-- data/
 |    |- raw/
 |    |    |__ products.csv
@@ -39,7 +39,7 @@ python
 |        |__ scraper.py
 |__ dep.txt
 |__ README.md
-|__ requirements.txt
+|__ requirements.txt`
  
 
 ## Ejecucion de Scraper
@@ -54,7 +54,7 @@ Esto nos va a generar un CSV en la carpeta "RAW" dentro de la carpeta "DATA" lla
 
 Para ejecutar el script para analisis de datos lo que hay que realizar es.
 
-`python .\src\analysys\analysys.py`
+`python .\src\analysys\analysis.py`
 
 Esto nos va a generar un CSV en la carpeta "PROCESSED" dentro de la carpeta "DATA" llamado "cleaned_products.csv"
 
