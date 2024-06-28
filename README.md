@@ -1,7 +1,7 @@
 # Scraping Web de Productos.
 Este proyecto realiza scraping de datos de productos de un sitio web, limpia y analiza loo datos, y los guarda en archivos CSV.
 ## Requisitos
-- Python 3.7+
+- Python 3.7
 - pandas
 - beautifulsoup4
 - requests
@@ -17,30 +17,29 @@ Para instalar las dependencias creamos un archivo "txt" el cual guardamos todas 
 
 ## Estructura de carpetas
 
-`Python
+```plaintext
+Python
 |-- data/
-|    |- raw/
-|    |    |__ products.csv
-|    |- processed/
-|        |__ cleaned_products.csv    
-|
+|   |-- raw/
+|   |   |-- products.csv
+|   |-- processed/
+|       |-- cleaned_products.csv
 |-- notebooks/
-|    |__ exploration.ipynb
-|
+|   |-- exploration.ipynb
 |-- src/
-|    |- analysis/
-|        |__ __init__.py
-|        |__ analysis.py
-|    |- decorators/
-|        |__ __init__.py
-|        |__ decorators.py
-|    |- scraping/
-|        |__ __init__.py
-|        |__ scraper.py
+|   |-- analysis/
+|   |   |-- __init__.py
+|   |   |-- analysis.py
+|   |-- decorators/
+|   |   |-- __init__.py
+|   |   |-- decorators.py
+|   |-- scraping/
+|       |-- __init__.py
+|       |-- scraper.py
 |__ dep.txt
 |__ README.md
-|__ requirements.txt`
- 
+|__ requirements.txt
+
 
 ## Ejecucion de Scraper
 
